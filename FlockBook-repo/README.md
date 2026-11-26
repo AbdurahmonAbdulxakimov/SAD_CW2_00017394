@@ -12,7 +12,7 @@ FlockBook puts the farm's records in one place: deaths, feed, slaughter head cou
 | `FlockBook/` | High-fidelity prototype: a mobile-first web app (HTML, CSS, JavaScript) |
 | `low-fidelity-prototype/` | Low-fidelity prototype in draw.io (13 linked pages) and PNG previews of each screen |
 | `uml-diagrams/` | Architecture diagram and four class diagrams (PNG and SVG) |
-| `screencast/` | 44-second screencast of the app running |
+| `screencast/` | `FlockBook_screencast_00017394.mp4`: 44-second screencast for the submission. `FlockBook_page_tour_00017394.mp4`: 51-second tour of every page |
 
 ## Run the app
 
